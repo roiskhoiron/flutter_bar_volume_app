@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 
 void main() {
   runApp(MyApp());
-  
 }
 
 class MyApp extends StatelessWidget {
